@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gakuru.github.io/csb-jprg0/static/css/main.35bf9def.chunk.css",
+    "main.js": "https://gakuru.github.io/csb-jprg0/static/js/main.c1804df4.chunk.js",
+    "main.js.map": "https://gakuru.github.io/csb-jprg0/static/js/main.c1804df4.chunk.js.map",
+    "runtime-main.js": "https://gakuru.github.io/csb-jprg0/static/js/runtime-main.411887cc.js",
+    "runtime-main.js.map": "https://gakuru.github.io/csb-jprg0/static/js/runtime-main.411887cc.js.map",
+    "static/js/2.86caf12f.chunk.js": "https://gakuru.github.io/csb-jprg0/static/js/2.86caf12f.chunk.js",
+    "static/js/2.86caf12f.chunk.js.map": "https://gakuru.github.io/csb-jprg0/static/js/2.86caf12f.chunk.js.map",
+    "index.html": "https://gakuru.github.io/csb-jprg0/index.html",
+    "static/css/main.35bf9def.chunk.css.map": "https://gakuru.github.io/csb-jprg0/static/css/main.35bf9def.chunk.css.map",
+    "static/js/2.86caf12f.chunk.js.LICENSE.txt": "https://gakuru.github.io/csb-jprg0/static/js/2.86caf12f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.411887cc.js",
+    "static/js/2.86caf12f.chunk.js",
+    "static/css/main.35bf9def.chunk.css",
+    "static/js/main.c1804df4.chunk.js"
+  ]
+}
